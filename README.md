@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ### 뱃지 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://github.com/dPwls0125)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=github&logoColor=#181717"/></a>
+<a href="[버튼을 눌렀을 때 이동할 링크](https://github.com/dPwls0125)" target="_blank"><img src="https://img.shields.io/badge/#000000?style=flat&logo=github&logoColor=#181717"/></a>
