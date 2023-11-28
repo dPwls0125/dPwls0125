@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 뱃지 
-<img src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=git&logoColor=%23181717&color=%23181717"/> 
