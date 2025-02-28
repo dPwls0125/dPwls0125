@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Hello%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=하루하루는%20성실하게%20인생%20전체는%20되는대로&fontSize=50)
 
 
 # Kim Ye jin🔭
