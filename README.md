@@ -9,7 +9,7 @@
 ### 🌟 **Activities & Experiences**
 
 - *Software Engineering Laboratory 학부 연구생*  
-  _(2024.01 ~ 2025.02.21)_  
+  _(2024.01 ~ 2025.02)_  
 
 - *Google Developer Student Club CoreMember*  
  _(2023.06 ~ 2024.03)_  
