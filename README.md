@@ -8,6 +8,8 @@
 
 ### 🌟 **Activities & Experiences**
 
+- *초록 스터디*
+  _(2025.04~)_
 - *Software Engineering Laboratory 학부 연구생*  
   _(2024.01 ~ 2025.02)_  
 
