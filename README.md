@@ -1,11 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=하루하루는%20성실하게%20인생%20전체는%20되는대로&fontSize=50)
-
-
-# Kim Ye jin🔭
-
-#### 서비스 개발, 운영 과정에서 발생하는 문제들에 적극적으로 대응할 수 있는 백엔드 개발자가 되고 싶은 김예진입니다.🌱
-
-
 ### 🌟 **Activities & Experiences**
 
 - *초록 스터디*  
